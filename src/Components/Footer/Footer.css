@@ -1,0 +1,35 @@
+.footer1
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer2
+{
+    display: flex;
+    justify-content:right;
+    flex-wrap: wrap;
+
+}
+
+li
+{
+    list-style: none;
+}
+
+.footer
+{
+    background-color: #710293;
+    position: relative;
+    margin-top: 150px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&family=Itim&family=Kanit:wght@300&family=Roboto:wght@100&family=Rubik+Maze&family=Rubik+Puddles&display=swap');
+*
+{
+    font-family: 'Itim', cursive;
+}
+body
+{
+    background-color: lightgray;
+}

@@ -1,0 +1,32 @@
+table{
+    width: 1000px;
+    text-align: center;
+    margin:auto;
+    margin-top: 100px;
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+/*border lines for the table*/
+
+th,td{
+    border: 2px solid black;
+    /*to join the boxes as lines use border collapse*/
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.tab
+{
+    overflow-x:auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&family=Itim&family=Kanit:wght@300&family=Roboto:wght@100&family=Rubik+Maze&family=Rubik+Puddles&display=swap');
+*
+{
+    font-family: 'Itim', cursive;
+}
+body
+{
+    background-color: lightgray;
+}
